@@ -1,11 +1,11 @@
 import type { IconMap, SocialLink, Site } from '@/types'
 
 export const SITE: Site = {
-  title: 'astro-erudite',
+  title: 'Merbin J Anselm',
   description:
-    'astro-erudite is a opinionated, unstyled blogging template—built with Astro, Tailwind, and shadcn/ui.',
-  href: 'https://astro-erudite.vercel.app',
-  author: 'jktrn',
+    'Merbin J Anselm is an experienced SAP Techno-Functional Consultant with a passion for technology and a knack for problem-solving. He specializes in SAP BTP, SAP Business AI, SAP HANA, SAP Fiori Elements + SAP UI5, and is dedicated to helping businesses optimize their SAP systems.',
+  href: 'https://site-merbinjanselm.pages.dev',
+  author: 'anselm94',
   locale: 'en-US',
   featuredPostCount: 2,
   postsPerPage: 3,
@@ -28,15 +28,15 @@ export const NAV_LINKS: SocialLink[] = [
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    href: 'https://github.com/jktrn',
+    href: 'https://github.com/anselm94',
     label: 'GitHub',
   },
   {
-    href: 'https://twitter.com/enscry',
+    href: 'https://twitter.com/MerbinJAnselm',
     label: 'Twitter',
   },
   {
-    href: 'mailto:jason@enscribe.dev',
+    href: 'mailto:merbinjanselm@gmail.com',
     label: 'Email',
   },
   {
