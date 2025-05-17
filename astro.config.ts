@@ -22,7 +22,7 @@ import { pluginLineNumbers } from '@expressive-code/plugin-line-numbers'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  site: 'https://site-merbinjanselm.pages.dev',
+  site: 'https://site-merbinjanselm.anselm94.workers.dev',
 
   integrations: [
     expressiveCode({

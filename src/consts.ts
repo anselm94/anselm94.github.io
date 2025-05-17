@@ -4,7 +4,7 @@ export const SITE: Site = {
   title: 'Merbin J Anselm',
   description:
     'Merbin J Anselm is an experienced SAP Techno-Functional Consultant with a passion for technology and a knack for problem-solving. He specializes in SAP BTP, SAP Business AI, SAP HANA, SAP Fiori Elements + SAP UI5, and is dedicated to helping businesses optimize their SAP systems.',
-  href: 'https://site-merbinjanselm.pages.dev',
+  href: 'https://site-merbinjanselm.anselm94.workers.dev',
   author: 'anselm94',
   locale: 'en-US',
   featuredPostCount: 2,
