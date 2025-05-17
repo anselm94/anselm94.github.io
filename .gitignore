@@ -12,5 +12,6 @@ pnpm-debug.log*
 teaser.pptx
 ~$teaser.pptx
 
-# Cloudflare Wrangler Types
+# Cloudflare Wrangler
+.wrangler
 worker-configuration.d.ts
