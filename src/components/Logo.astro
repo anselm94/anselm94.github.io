@@ -1,0 +1,15 @@
+---
+import { Image } from 'astro:assets'
+import logo from '../../public/static/logo-256.png'
+---
+
+<div class="flex flex-row items-center gap-2">
+  <Image src={logo} alt="Logo" class="size-10" />
+  <div class="flex flex-row items-center">
+    <div class="flex flex-col">
+      <span class="font-bold leading-none">MERBIN</span>
+      <span class="font-bold leading-none">ANSELM</span>
+    </div>
+    <span class="font-medium leading-none ms-0.5 text-5xl text-primary-foreground">J</span>
+  </div>
+</div>
